@@ -1,5 +1,6 @@
 
 /* Name:     Neway Moges
+   University of Colorado Denver
    Due date: 02/13/2022
 */
 #include <stdio.h>
